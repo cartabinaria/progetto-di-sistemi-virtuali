@@ -1,7 +1,7 @@
-# \<Insegnamento\>
+# Progetto di sistemi virtuali (37925)
 
-Una raccolta di risorse per l'insegnamento di \<Insegnamento\> del Corso di
-Laurea in Informatica.
+Una raccolta di risorse per l'insegnamento di Progetto di sistemi virtuali
+(37925) del Corso di Laurea in Informatica.
 
 ## Presentazione
 
