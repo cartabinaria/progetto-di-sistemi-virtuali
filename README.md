@@ -5,9 +5,9 @@ Una raccolta di risorse per l'insegnamento di Progetto di sistemi virtuali
 
 ## Presentazione
 
-[Questo sito](https://csunibo.github.io/<insegnamento>) elenca staticamente
-i contenuti della raccolta. Qui, documenti e presentazioni con estensione
-`.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente
+[Questo sito](https://csunibo.github.io/progetto-di-sistemi-virtuali) elenca
+staticamente i contenuti della raccolta. Qui, documenti e presentazioni con
+estensione `.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente
 convertiti in formato PDF.
 
 ## Contribuire
